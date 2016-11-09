@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="TabLineView">
+        <attr name="itemcolor" format="color"/>
+        <attr name="selectcolor" format="color"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="itemHight" format="dimension"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="itemMargin" format="dimension"/>
+    </declare-styleable>
+</resources>
